@@ -1,0 +1,19 @@
+**************************************************************
+** bootstrap 4 from scratch with 5 projects - Brad Traversy **
+**************************************************************
+
+ npm init
+ npm install bootstrap@4.0.0-beta font-awesome jquery popper.js --save
+ npm install gulp gulp-sass browser-sync --save-dev
+ 
+ npm install -g gulp-cli
+ gulp
+ 
+ 
+ npm start
+ 
+  -------------- GitHub ----------------
+ https://github.com/bradtraversy/bs4starter
+ 
+ npm install
+ npm start
